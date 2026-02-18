@@ -1,0 +1,755 @@
+{
+    "data": [
+        {
+            "actual": 204,
+            "date": "2023-01-01",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 183,
+            "date": "2023-01-08",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 212,
+            "date": "2023-01-15",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 192,
+            "date": "2023-01-22",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 177,
+            "date": "2023-01-29",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 181,
+            "date": "2023-02-05",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 215,
+            "date": "2023-02-12",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 222,
+            "date": "2023-02-19",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 199,
+            "date": "2023-02-26",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 207,
+            "date": "2023-03-05",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 207,
+            "date": "2023-03-12",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 192,
+            "date": "2023-03-19",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 198,
+            "date": "2023-03-26",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 216,
+            "date": "2023-04-02",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 222,
+            "date": "2023-04-09",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 208,
+            "date": "2023-04-16",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 194,
+            "date": "2023-04-23",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 201,
+            "date": "2023-04-30",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 205,
+            "date": "2023-05-07",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 196,
+            "date": "2023-05-14",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 180,
+            "date": "2023-05-21",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 191,
+            "date": "2023-05-28",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 438,
+            "date": "2023-06-04",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 405,
+            "date": "2023-06-11",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 400,
+            "date": "2023-06-18",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 402,
+            "date": "2023-06-25",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 411,
+            "date": "2023-07-02",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 410,
+            "date": "2023-07-09",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 379,
+            "date": "2023-07-16",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 408,
+            "date": "2023-07-23",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 396,
+            "date": "2023-07-30",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 407,
+            "date": "2023-08-06",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 406,
+            "date": "2023-08-13",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 402,
+            "date": "2023-08-20",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 407,
+            "date": "2023-08-27",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 210,
+            "date": "2023-09-03",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 196,
+            "date": "2023-09-10",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 192,
+            "date": "2023-09-17",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 190,
+            "date": "2023-09-24",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 213,
+            "date": "2023-10-01",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 225,
+            "date": "2023-10-08",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 203,
+            "date": "2023-10-15",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 189,
+            "date": "2023-10-22",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 203,
+            "date": "2023-10-29",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 207,
+            "date": "2023-11-05",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 194,
+            "date": "2023-11-12",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 201,
+            "date": "2023-11-19",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 204,
+            "date": "2023-11-26",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 411,
+            "date": "2023-12-03",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 394,
+            "date": "2023-12-10",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 404,
+            "date": "2023-12-17",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 399,
+            "date": "2023-12-24",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 394,
+            "date": "2023-12-31",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 186,
+            "date": "2024-01-07",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 194,
+            "date": "2024-01-14",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 193,
+            "date": "2024-01-21",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 220,
+            "date": "2024-01-28",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 191,
+            "date": "2024-02-04",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 197,
+            "date": "2024-02-11",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 194,
+            "date": "2024-02-18",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 203,
+            "date": "2024-02-25",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 211,
+            "date": "2024-03-03",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 185,
+            "date": "2024-03-10",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 203,
+            "date": "2024-03-17",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 199,
+            "date": "2024-03-24",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 191,
+            "date": "2024-03-31",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 206,
+            "date": "2024-04-07",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 193,
+            "date": "2024-04-14",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 193,
+            "date": "2024-04-21",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 211,
+            "date": "2024-04-28",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 194,
+            "date": "2024-05-05",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 187,
+            "date": "2024-05-12",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 202,
+            "date": "2024-05-19",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 207,
+            "date": "2024-05-26",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 406,
+            "date": "2024-06-02",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 391,
+            "date": "2024-06-09",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 400,
+            "date": "2024-06-16",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 410,
+            "date": "2024-06-23",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 410,
+            "date": "2024-06-30",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 408,
+            "date": "2024-07-07",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 416,
+            "date": "2024-07-14",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 399,
+            "date": "2024-07-21",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 380,
+            "date": "2024-07-28",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 407,
+            "date": "2024-08-04",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 416,
+            "date": "2024-08-11",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 403,
+            "date": "2024-08-18",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 414,
+            "date": "2024-08-25",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 218,
+            "date": "2024-09-01",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 206,
+            "date": "2024-09-08",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 210,
+            "date": "2024-09-15",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 185,
+            "date": "2024-09-22",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 179,
+            "date": "2024-09-29",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 196,
+            "date": "2024-10-06",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 193,
+            "date": "2024-10-13",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 202,
+            "date": "2024-10-20",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 205,
+            "date": "2024-10-27",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 194,
+            "date": "2024-11-03",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 201,
+            "date": "2024-11-10",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 204,
+            "date": "2024-11-17",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 196,
+            "date": "2024-11-24",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 396,
+            "date": "2024-12-01",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 409,
+            "date": "2024-12-08",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 382,
+            "date": "2024-12-15",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 405,
+            "date": "2024-12-22",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 401,
+            "date": "2024-12-29",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 196,
+            "date": "2025-01-05",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 187,
+            "date": "2025-01-12",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 199,
+            "date": "2025-01-19",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 192,
+            "date": "2025-01-26",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 198,
+            "date": "2025-02-02",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 203,
+            "date": "2025-02-09",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 205,
+            "date": "2025-02-16",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 207,
+            "date": "2025-02-23",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 206,
+            "date": "2025-03-02",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 209,
+            "date": "2025-03-09",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 208,
+            "date": "2025-03-16",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 199,
+            "date": "2025-03-23",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 197,
+            "date": "2025-03-30",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 188,
+            "date": "2025-04-06",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 193,
+            "date": "2025-04-13",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 203,
+            "date": "2025-04-20",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 189,
+            "date": "2025-04-27",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 191,
+            "date": "2025-05-04",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 192,
+            "date": "2025-05-11",
+            "lower_bound": 1,
+            "upper_bound": 15
+        },
+        {
+            "actual": 199,
+            "date": "2025-05-18",
+            "lower_bound": 1,
+            "upper_bound": 15
+        }
+    ],
+    "success": true
+}
